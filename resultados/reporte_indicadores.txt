@@ -1,0 +1,5 @@
+REPORTE DE INDICADORES CLIMÁTICOS ANUALES
+Temp. Media Anual: 17.18 C
+Temp. Max: 31.2 C (Enero)
+Temp. Min: 4.2 C (Julio)
+Precipitacion Promedio: 72.33 mm
